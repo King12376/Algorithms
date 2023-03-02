@@ -14,7 +14,7 @@ bool Ispalindrome (string s) {
 
 int main () {
   string name;
-  name = "abcbca";
+  cin >> name;;
 
  
   if (Ispalindrome(name))     //thats if the condition is true
